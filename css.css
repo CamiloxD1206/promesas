@@ -1,0 +1,25 @@
+.caratula{
+    opacity: 0;
+}
+.caratula2{
+    opacity: 1;
+}
+.boton{
+    color: white;
+    background-color: rgb(247, 87, 87);
+    border-color: rgb(247, 57, 57);
+    border-radius:5px;
+    margin:6px;
+}
+.div{
+    margin-left: 8px;
+}
+
+.goku{
+    width:100px;
+
+}
+.goku2{
+    width:300px;
+
+}
